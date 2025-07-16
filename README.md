@@ -8,19 +8,19 @@ controllers, models, and middleware. Ideal for learning or kickstarting RESTful 
 demo/
 ├── config/
 │   └── db.js
-|
+│
 ├── controllers/
 │   └── user.controller.js **Exampal**
-|
+│
 ├── models/
 │   └── user.model.js **Exampal**
-|
+│
 ├── routes/
 │   └── user.routes.js **Exampal**
-|
+│
 ├── middlewares/
 │   └── errorHandler.js **Exampal**
-|
+│
 ├── .env
 ├── app.js
 ├── server.js
@@ -59,7 +59,7 @@ Follow these steps to get your project up and running:
 5. **optional all packages update**
 
    ```sh
-   Yarn up --latest || pnpm up --latest
+    npm up --latest || yarn up --latest || pnpm up --latest
    ```
 
 6. **optional trminal clear**
