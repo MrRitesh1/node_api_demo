@@ -8,19 +8,14 @@ controllers, models, and middleware. Ideal for learning or kickstarting RESTful 
 demo/
 ├── config/
 │   └── db.js
-│
 ├── controllers/
 │   └── user.controller.js **Exampal**
-│
 ├── models/
 │   └── user.model.js **Exampal**
-│
 ├── routes/
 │   └── user.routes.js **Exampal**
-│
 ├── middlewares/
 │   └── errorHandler.js **Exampal**
-│
 ├── .env
 ├── app.js
 ├── server.js
